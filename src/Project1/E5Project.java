@@ -5,7 +5,7 @@ public class E5Project {
 
         // Write a program to swap two numbers without a temporary variable.
 
-                // Initial values
+                // Initial values assigned
                 int a = 5;
                 int b = 10;
 
